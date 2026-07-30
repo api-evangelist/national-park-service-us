@@ -1,4 +1,16 @@
 aid: national-park-service-us
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/national-park-service-us.png
 name: National Park Service, US
 description: "Data from the US National Park Service"
 url: https://www.nps.gov/subjects/developer/
